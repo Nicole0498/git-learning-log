@@ -22,7 +22,7 @@ I'm learning Git and version control to track my work.
 - [Oh My Git!](https://ohmygit.org) - Interactive game to learn Git
 
 ## Next Steps
-<<<<<<< HEAD
+
 - Learn about rebasing and interactive rebase
 - Explore GitHub Actions for automation
 - Practice contributing to open source projects
@@ -31,6 +31,6 @@ I'm learning Git and version control to track my work.
 - Learn about rebasing and interactive rebase II
 - Explore GitHub Actions for automation II
 - Practice contributing to open source projects II
-=======
+
 - Learn about rebasing and interactive rebase
->>>>>>> cf56530 (Add Next Steps heading and first item)
+
